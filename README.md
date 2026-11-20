@@ -1,5 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="127px">
+  <br><br />
+  <samp>
+    😆 Hey! Welcome to my profile
+    <br />
+    <br />🍉 Take a look at my stats  🌱
+    <br />
+    <br />
+  </samp>
+
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=erkang1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="erkang's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkang1&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| ------------- | ------------- |
+
+</p>
